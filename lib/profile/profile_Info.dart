@@ -63,7 +63,7 @@ class ProfileDetails extends StatelessWidget {
           )
         ],
       ),
-      // bottomNavigationBar: NavBar(),
+      bottomNavigationBar: NavBottomBar(),
     );
   }
 }
